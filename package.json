@@ -1,0 +1,14 @@
+{
+  "name": "circleciexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
